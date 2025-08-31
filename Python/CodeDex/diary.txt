@@ -1,0 +1,5 @@
+Entry 1: 
+ This is the first entry in my diary... another will soon follow.
+
+Entry 2: 
+ This is the second entry to the diary!
